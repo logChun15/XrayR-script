@@ -14,7 +14,7 @@ Find the source code here: [logChun15/XrayR](https://github.com/logChun15/XrayR)
 # 一键安装
 
 ```
-wget -N https://raw.githubusercontents.com/logChun15/XrayR-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/logChun15/XrayR-script/master/install.sh && bash install.sh
 ```
 OR
 ```
